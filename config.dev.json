@@ -23,10 +23,10 @@
     "SAMIR": "https://apis-samir.onrender.com",
     "RUBISH": "https://rubish-apihub.onrender.com/rubish"
   },
-  "nickNameBot": "『 - 』 John bot",
-  "prefix": "-",
+  "nickNameBot": "『 - 』 KEIJO 🐐GOATBOTV2 ",
+  "prefix": ".",
   "vipUser": [
-    "100063138152006",
+    "61565554550708",
     "100056093558255",
     "61575881096143"
   ],
@@ -36,30 +36,30 @@
     ""
   ],
   "adminBot": [
-    "100063138152006",
-    "61575608187669",
-    "61575881096143"
+    "61565554550708",
+    "",
+    ""
   ],
 "nisanBot": [
-    "100063138152006"
+    "61565554550708"
   ],
 
   "rubishapi": "https://rubish-apihub.onrender.com/rubish",
   "diptoapi": "https://d1pt0-call-bomber.onrender.com/dipto?",
   "GOD": [
-    "100063138152006",
+    "61565554550708",
     "",
     ""
   ],
   "DEV": [
-    "100063138152006",
+    "61565554550708",
     "",
     "l"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61564459952029",
+      "",
       "",
       ""
     ],
@@ -68,7 +68,7 @@
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "7326972633998915"
+      ""
     ],
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
